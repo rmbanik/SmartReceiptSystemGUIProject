@@ -1,4 +1,4 @@
-# Smart Receipt Management System
+# Smart Receipt Management System GUI
 
 A Java command-line application for managing personal receipts and tracking expenses.
 
@@ -13,8 +13,3 @@ A Java command-line application for managing personal receipts and tracking expe
 1. Open in Eclipse
 2. Run Main.java
 3. Follow the menu
-
-## Technologies
-- Java
-- OOP (Inheritance, Abstraction, Polymorphism)
-- Collections (ArrayList, HashMap)
